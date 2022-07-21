@@ -20,7 +20,7 @@ function Navbar({ user, setUser }) {
   }
 
   return (
-    <Box as="nav" background="#ff6600" p="16px" mb="32px" width="100%">
+    <Box as="nav" background="#496AE5" p="16px" mb="32px" width="100%">
       <Box
         color="white"
         display="flex"
